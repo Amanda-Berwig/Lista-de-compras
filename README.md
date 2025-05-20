@@ -1,34 +1,39 @@
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+# 🛒 Lista de Compras
 
-# Titulo do projeto
+Aplicação web dinâmica desenvolvida como parte do curso **Construindo páginas dinâmicas com JavaScript**, da [Alura](https://www.alura.com.br/).  
+Este projeto permite ao usuário criar, editar e gerenciar uma lista de compras de forma simples e interativa.
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+## ✨ Funcionalidades
 
-## 🔨 Funcionalidades do projeto
+- ✅ Adicionar itens com nome, data e hora de criação
+- ✏️ Editar informações dos itens
+- 🗑️ Excluir itens da lista
+- 🛍️ Marcar itens como comprados utilizando checkboxes
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+## 💻 Tecnologias utilizadas
 
-![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
+- **HTML**: Estruturação dos elementos da página  
+- **CSS**: Estilização e responsividade da interface  
+- **JavaScript**: Lógica para manipulação dinâmica da lista com DOM
 
-## ✔️ Técnicas e tecnologias utilizadas
+## 📷 Demonstração
 
-As técnicas e tecnologias utilizadas pra isso são:
+![Demonstração da aplicação](./lista-compras.gif)
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+## 🚀 Como rodar o projeto
 
-## 📁 Acesso ao projeto
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/amanda-berwig/Lista-de-compras.git
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
 
-## 🛠️ Abrir e rodar o projeto
+🚀 Como rodar o projeto
+Clone este repositório:
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+Abra o arquivo index.html em seu navegador.
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+
